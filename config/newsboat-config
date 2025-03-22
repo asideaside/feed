@@ -38,4 +38,4 @@ ignore-article "*" "title =~ \"Octavio\""
 ignore-article "*" "title =~ \"Crimzon Ruze\""
 ignore-article "*" "title =~ \"Magni Dezmond\""
 ignore-article "*" "title =~ \"Noir Vesper\""
-
+ignore-article "*" "title =~ \"Confirm your subscription\""
