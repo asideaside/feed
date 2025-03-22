@@ -7,8 +7,35 @@ prepopulate-query-feeds yes
 show-read-feeds no
 confirm-mark-all-feeds-read yes
 confirm-mark-feed-read no
-keep-articles-days 30
+keep-articles-days 90
 
-ignore-article "*" "title =~ \"Sponsor\""
-ignore-article "*" "title =~ \"Advertisement\""
 ignore-mode "display"
+#ignore-article "*" "title =~ \"Sponsor\""
+#ignore-article "*" "title =~ \"Advertisement\""
+ignore-article "*" "title =~ \"HOLOSTARS\""
+ignore-article "*" "title =~ \"Hanasaki Miyabi\""
+ignore-article "*" "title =~ \"Kanade Izuru\""
+ignore-article "*" "title =~ \"Arurandeisu\""
+ignore-article "*" "title =~ \"Rikka\""
+ignore-article "*" "title =~ \"Astel Leda\""
+ignore-article "*" "title =~ \"Kishido Tenma\""
+ignore-article "*" "title =~ \"Yukoku Roberu\""
+ignore-article "*" "title =~ \"Kageyama Shien\""
+ignore-article "*" "title =~ \"Aragami Oga\""
+ignore-article "*" "title =~ \"Yatogami Fuma\""
+ignore-article "*" "title =~ \"Utsugi Uyu\""
+ignore-article "*" "title =~ \"Hizaki Gamma\""
+ignore-article "*" "title =~ \"Minase Rio\""
+ignore-article "*" "title =~ \"Regis Altare\""
+ignore-article "*" "title =~ \"Axel Syrios\""
+ignore-article "*" "title =~ \"Gavis Bettel\""
+ignore-article "*" "title =~ \"Machina X Flayon\""
+ignore-article "*" "title =~ \"Banzoin Hakka\""
+ignore-article "*" "title =~ \"Josuiji Shinri\""
+ignore-article "*" "title =~ \"Jurard T Rexford\""
+ignore-article "*" "title =~ \"Goldbullet\""
+ignore-article "*" "title =~ \"Octavio\""
+ignore-article "*" "title =~ \"Crimzon Ruze\""
+ignore-article "*" "title =~ \"Magni Dezmond\""
+ignore-article "*" "title =~ \"Noir Vesper\""
+
