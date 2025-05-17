@@ -10,13 +10,16 @@ https://coveredge.cover-corp.com/en/feed "~COVEREdge Magazine" COVER
 https://hololive.hololivepro.com/en/events/feed/ "~hololive Events" hololive
 https://hololivepro.com/news_en/feed/ "~hololive Official News" hololive
 https://kill-the-newsletter.com/feeds/zjpgcsb5fej2znwpxlvl.xml "~hololive TODAY fan newsletter" hololive
+https://xcancel.com/ou_en_event_usa/rss "OU-EN EVENT USA tweets" hololive
 https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWDNKc2EyaDRjQklDWlc0b0FBUAE?hl=en-US&gl=US&ceid=US%3Aen "~hololive on Google News" hololive
 
 https://merch-matome.com/feed/ "~Merch Matome" merch
 
 https://vtubersensei.com/feed/ "~VTuber Sensei" VTubers
 https://vt.rita.moe/news.xml "/vt/ /news/" VTubers
+https://xcancel.com/HoloChatStat/rss "HoloChatStat tweets" VTubers
 
+https://xcancel.com/HoloCureGame/rss "HoloCure tweets" holo-fangames
 
 # @hwikkyOG
 https://www.youtube.com/feeds/videos.xml?channel_id=UCI-K3cqRc7whDl_DAC_trYw ! yt-holo
