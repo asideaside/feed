@@ -4,15 +4,17 @@
 #"query:VTubers:tags # \"vtubers\""
 "query:holo-vlogs:tags # \"yt-holo\""
 #"query:vtuber-vlogs:tags # \"yt-vtubers\""
+#"query:Japan:tags # \"Japan\""
 
 https://coveredge.cover-corp.com/en/feed "~COVEREdge Magazine" COVER
+https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZvTVhrNE5IUndPUklDWlc0b0FBUAE "~COVER on Google News" COVER
 https://note.com/karuta54/rss "karuta54's notes blog" COVER
 
 https://hololive.hololivepro.com/en/events/feed/ "~hololive Events" hololive
 https://hololivepro.com/news_en/feed/ "~hololive Official News" hololive
 https://kill-the-newsletter.com/feeds/zjpgcsb5fej2znwpxlvl.xml "~hololive TODAY fan newsletter" hololive
 #https://xcancel.com/ou_en_event_usa/rss "OU-EN EVENT USA tweets" hololive
-https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWDNKc2EyaDRjQklDWlc0b0FBUAE?hl=en-US&gl=US&ceid=US%3Aen "~hololive on Google News" hololive
+https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWDNKc2EyaDRjQklDWlc0b0FBUAE "~hololive on Google News" hololive
 
 https://merch-matome.com/feed/ "~Merch Matome" merch
 https://fetchrss.com/feed/aG270Bs05mQyaG27izYkEYHi.rss "~VTuber Republic" merch
@@ -37,3 +39,5 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCq7AdNVPPuRlwfa0AUcEKEA ! y
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmZiZpLlYgXI8mrWC-grdPg ! yt-holo
 # VTuber NewsDrop
 # https://www.youtube.com/feeds/videos.xml?channel_id=UCTIkskI3isaYU0_GG1Gkngw ! yt-vtubers
+
+#https://essential-japan.com/news/feed/ "Essential Japan" Japan
