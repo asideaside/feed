@@ -17,6 +17,8 @@ https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWDNKc2EyaDRjQ
 https://fetchrss.com/feed/aG270Bs05mQyaJd8sCZUN5hz.rss "~hololive collabs in Japan" hololive
 https://fetchrss.com/feed/aG270Bs05mQyaJd9E3C4OoUj.rss "~hololive in PRTimes news releases" hololive
 https://hololive-tsuushin.com/feed/ "~hololive tsuushin fan blog (JP)" hololive
+#https://essential-japan.com/news/feed/ "Essential Japan" Japan #results in a lot of non-holo spam
+https://fetchrss.com/feed/aG270Bs05mQyaMWKkG6w38YS.rss "~hololive articles from Essential Japan" hololive
 
 https://merch-matome.com/feed/ "~Merch Matome" merch
 https://fetchrss.com/feed/aG270Bs05mQyaG27izYkEYHi.rss "~VTuber Republic" merch
@@ -42,5 +44,3 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCq7AdNVPPuRlwfa0AUcEKEA ! y
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmZiZpLlYgXI8mrWC-grdPg ! yt-holo
 # VTuber NewsDrop
 # https://www.youtube.com/feeds/videos.xml?channel_id=UCTIkskI3isaYU0_GG1Gkngw ! yt-vtubers
-
-#https://essential-japan.com/news/feed/ "Essential Japan" Japan
