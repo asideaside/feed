@@ -15,8 +15,10 @@ https://hololivepro.com/news_en/feed/ "~hololive Official News" hololive
 #https://xcancel.com/ou_en_event_usa/rss "OU-EN EVENT USA tweets" hololive
 https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZuWDNKc2EyaDRjQklDWlc0b0FBUAE "~hololive on Google News" hololive
 https://fetchrss.com/feed/aG270Bs05mQyaJd8sCZUN5hz.rss "~hololive collabs in Japan" hololive
+#Google News (JP) trial, if there's too much irrelevant/duplicate stuff, it will be cut
+https://news.google.com/rss/search?q=%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96&hl=ja&gl=JP&ceid=JP%3Aja "~ホロライブ on Google News (JP)" hololive
 https://fetchrss.com/feed/aG270Bs05mQyaJd9E3C4OoUj.rss "~hololive in PRTimes news releases" hololive
-https://hololive-tsuushin.com/feed/ "~hololive tsuushin fan blog (JP)" hololive
+https://hololive-tsuushin.com/feed/ "~hololive tsuushin fan site (JP)" hololive
 https://holoearth.com/en/feed/ "~hololive Holoearth" hololive
 #https://essential-japan.com/news/feed/ "Essential Japan" Japan #results in a lot of non-holo spam
 https://fetchrss.com/feed/aG270Bs05mQyaMWKkG6w38YS.rss "~hololive articles from Essential Japan" hololive
